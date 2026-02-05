@@ -3,8 +3,8 @@
 Central hub for my university course notes and study websites  
 (Computer Science × Psychology × Neuroscience)
 
-All repositories contain structured course notes (mainly LaTeX/Markdown) and are published as study websites.
-
+All repositories contain structured course notes (mainly LaTeX/Markdown)  
+and are published as study websites for easy navigation and learning.
 ---
 
 ## 🔎 Quick navigation
@@ -76,5 +76,5 @@ Planned improvements:
 
 ## 📬 Contact
 
-For questions or collaboration:  
-Open an Issue in the relevant repository.
+For questions or collaboration,  
+please open an Issue in the relevant repository.
