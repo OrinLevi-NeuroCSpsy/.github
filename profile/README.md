@@ -11,7 +11,7 @@ Central hub for my university course notes and study websites
 |------------|---------|------|--------|
 | **CS1001** | https://orinlevi-neurocspsy.github.io/CS1001 | LaTeX, GitHub Pages | Active |
 | **Statistics1** | https://orinlevi-neurocspsy.github.io/Statistics1 | LaTeX, GitHub Pages | Active |
-| **Intro_to_psychology** | https://orinlevi-neurocspsy.github.io/Intro_to_psychology | LaTeX | Active |
+| **Intro_to_psychology** | [https://orinlevi-neurocspsy.github.io/Intro_to_psychology](https://orinlevi-neurocspsy.github.io/Intro_to_psychology/) | LaTeX | Active |
 | **Discrete1** | https://orinlevi-neurocspsy.github.io/Discrete1 | LaTeX | Active |
 | **calculus1B** | https://orinlevi-neurocspsy.github.io/calculus1B | LaTeX | Active |
 | **Lini1B** | https://orinlevi-neurocspsy.github.io/Lini1B | LaTeX | Active |
