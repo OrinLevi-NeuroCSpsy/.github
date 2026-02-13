@@ -29,8 +29,8 @@ and are published as study websites for easy navigation and learning.
 
 | Repository | Website | Tech |
 |------------|---------|------|
-| **Intro_to_psychology** | [Open](https://orinlevi-neurocspsy.github.io/Intro_to_psychology/) | LaTeX |
-| **Statistics1** | [Open](https://orinlevi-neurocspsy.github.io/Statistics1/) | LaTeX |
+| **Intro_to_psychology** | [Open](https://orinlevi-neurocspsy.github.io/Intro_To_Psychology/) | LaTeX |
+| **Statistics1** | [Open](https://orinlevi-neurocspsy.github.io/Statistics_For_Psychology/) | LaTeX |
 
 ---
 
@@ -47,9 +47,9 @@ and are published as study websites for easy navigation and learning.
 | Repository | Website | Tech |
 |------------|---------|------|
 | **CS1001** | [Open](https://orinlevi-neurocspsy.github.io/CS1001/) | LaTeX |
-| **Discrete1** | [Open](https://orinlevi-neurocspsy.github.io/Discrete1/) | LaTeX |
-| **calculus1B** | [Open](https://orinlevi-neurocspsy.github.io/calculus1B/) | LaTeX |
-| **Lini1B** | [Open](https://orinlevi-neurocspsy.github.io/Lini1B/) | LaTeX |
+| **Discrete1** | [Open](https://orinlevi-neurocspsy.github.io/Discrete/) | LaTeX |
+| **calculus1B** | [Open](https://orinlevi-neurocspsy.github.io/calculusB/) | LaTeX |
+| **Lini1B** | [Open](https://orinlevi-neurocspsy.github.io/LiniB/) | LaTeX |
 
 ---
 
