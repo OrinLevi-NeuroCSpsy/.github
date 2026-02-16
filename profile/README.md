@@ -1,4 +1,4 @@
-# 🧠 OrinLevi-NeuroCSpsy
+# 🧠 neurocspsy-TAU
 
 Central hub for my university course notes and study websites  
 (Computer Science × Psychology × Neuroscience)
@@ -29,8 +29,8 @@ and are published as study websites for easy navigation and learning.
 
 | Repository | Website | Tech |
 |------------|---------|------|
-| **Intro_To_Psychology** | [Open](https://orinlevi-neurocspsy.github.io/Intro_To_Psychology/) | LaTeX |
-| **Statistics1** | [Open](https://orinlevi-neurocspsy.github.io/Statistics_For_Psychology/) | LaTeX |
+| **Intro_To_Psychology** | [Open](https://neurocspsy-TAU.github.io/Intro_To_Psychology/) | LaTeX |
+| **Statistics1** | [Open](https://neurocspsy-TAU.github.io/Statistics_For_Psychology/) | LaTeX |
 
 ---
 
@@ -38,7 +38,7 @@ and are published as study websites for easy navigation and learning.
 
 | Repository | Website | Tech |
 |------------|---------|------|
-| **Seminar_Neuroscience** | [Open](https://orinlevi-neurocspsy.github.io/Seminar_Neuroscience/) | LaTeX |
+| **Seminar_Neuroscience** | [Open](https://neurocspsy-TAU.github.io/Seminar_Neuroscience/) | LaTeX |
 
 ---
 
@@ -46,10 +46,10 @@ and are published as study websites for easy navigation and learning.
 
 | Repository | Website | Tech |
 |------------|---------|------|
-| **CS1001** | [Open](https://orinlevi-neurocspsy.github.io/CS1001/) | LaTeX |
-| **Discrete** | [Open](https://orinlevi-neurocspsy.github.io/Discrete1/) | LaTeX |
-| **calculusB** | [Open](https://orinlevi-neurocspsy.github.io/calculusB/) | LaTeX |
-| **LiniB** | [Open](https://orinlevi-neurocspsy.github.io/LiniB/) | LaTeX |
+| **CS1001** | [Open](https://neurocspsy-TAU.github.io/CS1001/) | LaTeX |
+| **Discrete** | [Open](https://neurocspsy-TAU.github.io/Discrete1/) | LaTeX |
+| **calculusB** | [Open](https://neurocspsy-TAU.github.io/calculusB/) | LaTeX |
+| **LiniB** | [Open](https://neurocspsy-TAU.github.io/LiniB/) | LaTeX |
 
 ---
 
